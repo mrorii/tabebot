@@ -21,3 +21,11 @@ This will start writing out scraped results to:
 in the working directory.
 
 Crawl responsibly.
+
+## Screenshot
+
+Example output:
+
+![](img/review.png)
+
+![](img/business_and_user.png)
